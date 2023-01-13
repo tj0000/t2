@@ -27,5 +27,6 @@ Documentations:
 
 
 Cleanup
+        
         (run in root folder)
         cdk destroy
